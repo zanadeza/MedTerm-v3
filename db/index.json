@@ -1,0 +1,80 @@
+{
+  "version": "3.0.0",
+  "generated_at": "2026-05-09T17:09:10.910769",
+  "database_name": "MedLex – القاموس الطبي الذكي",
+  "stats": {
+    "total_words": 3395,
+    "total_sentences": 958,
+    "total_images": 32,
+    "total_chapters": 11
+  },
+  "word_files": {
+    "db_ac": {
+      "range": "A–C",
+      "total": 886,
+      "file": "db/db_ac.json"
+    },
+    "db_dh": {
+      "range": "D–H",
+      "total": 947,
+      "file": "db/db_dh.json"
+    },
+    "db_ip": {
+      "range": "I–P",
+      "total": 791,
+      "file": "db/db_ip.json"
+    },
+    "db_qs": {
+      "range": "Q–S",
+      "total": 443,
+      "file": "db/db_qs.json"
+    },
+    "db_tz": {
+      "range": "T–Z",
+      "total": 328,
+      "file": "db/db_tz.json"
+    }
+  },
+  "other_files": {
+    "sentences": "db/sentences.json",
+    "images": "db/images.json"
+  },
+  "letter_to_file": {
+    "A": "db/db_ac.json",
+    "B": "db/db_ac.json",
+    "C": "db/db_ac.json",
+    "D": "db/db_dh.json",
+    "E": "db/db_dh.json",
+    "F": "db/db_dh.json",
+    "G": "db/db_dh.json",
+    "H": "db/db_dh.json",
+    "I": "db/db_ip.json",
+    "J": "db/db_ip.json",
+    "K": "db/db_ip.json",
+    "L": "db/db_ip.json",
+    "M": "db/db_ip.json",
+    "N": "db/db_ip.json",
+    "O": "db/db_ip.json",
+    "P": "db/db_ip.json",
+    "Q": "db/db_qs.json",
+    "R": "db/db_qs.json",
+    "S": "db/db_qs.json",
+    "T": "db/db_tz.json",
+    "U": "db/db_tz.json",
+    "V": "db/db_tz.json",
+    "W": "db/db_tz.json",
+    "X": "db/db_tz.json",
+    "Y": "db/db_tz.json",
+    "Z": "db/db_tz.json",
+    "0": "db/db_tz.json",
+    "1": "db/db_tz.json",
+    "2": "db/db_tz.json",
+    "3": "db/db_tz.json",
+    "4": "db/db_tz.json",
+    "5": "db/db_tz.json",
+    "6": "db/db_tz.json",
+    "7": "db/db_tz.json",
+    "8": "db/db_tz.json",
+    "9": "db/db_tz.json"
+  }
+}

@@ -1,0 +1,208 @@
+{
+  "version": "2.0.0",
+  "generated_at": "2026-05-09T10:53:52.214304",
+  "total": 32,
+  "description": "Medical figures and diagrams extracted from source PDFs",
+  "schema": {
+    "image_id": "string – unique IMG_### identifier",
+    "file_name": "string – source PDF file name",
+    "page": "integer – page number in source file",
+    "description": "string – figure caption / description",
+    "topic": "string – (optional) medical topic tag",
+    "local_path": "string – (optional) path to saved image file"
+  },
+  "images": [
+    {
+      "image_id": "IMG_ASP_001",
+      "file_name": "Asepsis.pdf",
+      "page": 4,
+      "description": "FIGURE 10-2 The chain of infection. GI, gastrointestinal; GU, genitourinary."
+    },
+    {
+      "image_id": "IMG_ASP_002",
+      "file_name": "Asepsis.pdf",
+      "page": 8,
+      "description": "Image of a chemical thermometer."
+    },
+    {
+      "image_id": "IMG_ASP_003",
+      "file_name": "Asepsis.pdf",
+      "page": 8,
+      "description": "Image of a tympanic thermometer."
+    },
+    {
+      "image_id": "IMG_ASP_004",
+      "file_name": "Asepsis.pdf",
+      "page": 11,
+      "description": "FIGURE 10-8 An autoclave. (Photo by B. Proud.)"
+    },
+    {
+      "image_id": "IMG_SAF_001",
+      "file_name": "Safety.pdf",
+      "page": 5,
+      "description": "FIGURE 19-7 Evacuation of clients. (A) Human crutches—rescuers secure a weak but ambulatory client's arm and waist. (B) Seat carry—rescuers interlock arms and carry a nonambulatory client. (C) Body drag—rescuers drag an unconscious victim or one who cannot assist on a blanket or sheet."
+    },
+    {
+      "image_id": "IMG_VS_001",
+      "file_name": "Vital Signs.pdf",
+      "page": 4,
+      "description": "FIGURE 12-1 The hypothalamus regulates body temperature."
+    },
+    {
+      "image_id": "IMG_VS_002",
+      "file_name": "Vital Signs.pdf",
+      "page": 10,
+      "description": "FIGURE 12-11 Phases of a fever and physiologic changes."
+    },
+    {
+      "image_id": "IMG_VS_003",
+      "file_name": "Vital Signs.pdf",
+      "page": 16,
+      "description": "FIGURE 12-12 The peripheral pulse sites."
+    },
+    {
+      "image_id": "IMG_VS_004",
+      "file_name": "Vital Signs.pdf",
+      "page": 21,
+      "description": "FIGURE 12-17 An aneroid (A) and an electronic oscillometric manometer (B)."
+    },
+    {
+      "image_id": "IMG_VS_005",
+      "file_name": "Vital Signs.pdf",
+      "page": 22,
+      "description": "FIGURE 12-18 To determine the appropriate size of blood pressure cuff, the width of the bladder should be 40% of the midarm circumference and the length should be at least 80%."
+    },
+    {
+      "image_id": "IMG_VS_006",
+      "file_name": "Vital Signs.pdf",
+      "page": 22,
+      "description": "FIGURE 12-22 A stethoscope (A) and a chest piece (B)."
+    },
+    {
+      "image_id": "IMG_VS_007",
+      "file_name": "Vital Signs.pdf",
+      "page": 24,
+      "description": "FIGURE 12-20 Characteristics of Korotkoff sounds showing progression from 150 mm Hg to 0 mm Hg with phases: Phase I faint tapping, Phase II swishing, Phase III loud knocking, Phase IV muffled, Phase V silence."
+    },
+    {
+      "image_id": "IMG_HYG_001",
+      "file_name": "Hygiene.pdf",
+      "page": 2,
+      "description": "FIGURE 17-1 A cross-section of the skin."
+    },
+    {
+      "image_id": "IMG_HYG_002",
+      "file_name": "Hygiene.pdf",
+      "page": 4,
+      "description": "FIGURE 17-4 A cross-section of a tooth. (From Cohen, B. [2010]. Medical terminology: An illustrated guide [4th ed.]. Philadelphia, PA: Lippincott Williams & Wilkins.)"
+    },
+    {
+      "image_id": "IMG_REC_001",
+      "file_name": "Recording.pdf",
+      "page": 6,
+      "description": "FIGURE 9-3 Sample of PIE charting."
+    },
+    {
+      "image_id": "IMG_REC_002",
+      "file_name": "Recording.pdf",
+      "page": 7,
+      "description": "FIGURE 9-4 Portable computers allow for point of care documentation. (From Craven, R.F., Hirnle, C.J. Fundamentals of Nursing [6th ed.]. Philadelphia: Lippincott Williams & Wilkins.)"
+    },
+    {
+      "image_id": "IMG_REC_003",
+      "file_name": "Recording.pdf",
+      "page": 11,
+      "description": "FIGURE 9-6 The military clock uses one 24-hour time cycle instead of two 12-hour cycles (eg, 9:00 AM is 0900 and 9:00 PM is 2100)."
+    },
+    {
+      "image_id": "IMG_BOD_001",
+      "file_name": "Body Mechanics.pdf",
+      "page": 4,
+      "description": "FIGURE 23-1 Good posture helps to align gravity through the center of the body. A wide stance provides a stable base for support."
+    },
+    {
+      "image_id": "IMG_BOD_002",
+      "file_name": "Body Mechanics.pdf",
+      "page": 5,
+      "description": "FIGURE 23-2 (A) A good standing posture results when abdominal and gluteal muscles are contracted. (B) A poor standing posture results when abdominal muscles are relaxed, causing altered body alignment."
+    },
+    {
+      "image_id": "IMG_BOD_003",
+      "file_name": "Body Mechanics.pdf",
+      "page": 6,
+      "description": "FIGURE 23-3 (A) A correct sitting posture. (B) An incorrect sitting posture. (From Hendrickson, T. [2010]. Massage and manual therapy for orthopedic conditions [2nd ed.]. Philadelphia, PA: Wolters Kluwer Health and Pharma.)"
+    },
+    {
+      "image_id": "IMG_BOD_004",
+      "file_name": "Body Mechanics.pdf",
+      "page": 7,
+      "description": "FIGURE 23-4 (A) Maintaining the spine in neutral position (top) facilitates the best lying posture. (B) Positions that create neck flexion (middle) or (C) hyperextension (bottom) are undesirable."
+    },
+    {
+      "image_id": "IMG_BOD_005",
+      "file_name": "Body Mechanics.pdf",
+      "page": 9,
+      "description": "Figure 23-6: A) Supine position, B) Lateral position"
+    },
+    {
+      "image_id": "IMG_BOD_006",
+      "file_name": "Body Mechanics.pdf",
+      "page": 11,
+      "description": "Image of a client in prone position."
+    },
+    {
+      "image_id": "IMG_BOD_007",
+      "file_name": "Body Mechanics.pdf",
+      "page": 11,
+      "description": "E) Sims' position"
+    },
+    {
+      "image_id": "IMG_BOD_008",
+      "file_name": "Body Mechanics.pdf",
+      "page": 12,
+      "description": "Image showing low Fowler's (30 degrees), semi-Fowler's (45 degrees), and high Fowler's (60-90 degrees) positions."
+    },
+    {
+      "image_id": "IMG_BOD_009",
+      "file_name": "Body Mechanics.pdf",
+      "page": 13,
+      "description": "Diagram showing various positioning devices and body positions."
+    },
+    {
+      "image_id": "IMG_BOD_010",
+      "file_name": "Body Mechanics.pdf",
+      "page": 14,
+      "description": "FIGURE 23-16 A roller sheet is used for turning, moving, and repositioning."
+    },
+    {
+      "image_id": "IMG_BOD_011",
+      "file_name": "Body Mechanics.pdf",
+      "page": 15,
+      "description": "FIGURE 23-12 A hand roll. (Photo by B. Proud.)"
+    },
+    {
+      "image_id": "IMG_BOD_012",
+      "file_name": "Body Mechanics.pdf",
+      "page": 15,
+      "description": "FIGURE 23-13 Protective boots to avoid foot drop. (Photo by B. Proud.)"
+    },
+    {
+      "image_id": "IMG_BOD_013",
+      "file_name": "Body Mechanics.pdf",
+      "page": 16,
+      "description": "FIGURE 23-21 Using a trapeze to facilitate movement. (From Taylor, C., Lillis, C., & Lynn, P. [2015]. Fundamentals of nursing [8th ed.]. Philadelphia, PA: Lippincott Williams & Wilkins.)"
+    },
+    {
+      "image_id": "IMG_BOD_014",
+      "file_name": "Body Mechanics.pdf",
+      "page": 16,
+      "description": "FIGURE 23-22 Using side rails to prepare for ambulation and to change position."
+    },
+    {
+      "image_id": "IMG_BOD_015",
+      "file_name": "Body Mechanics.pdf",
+      "page": 17,
+      "description": "FIGURE 23-16 An alternating air mattress. (First Step Plus; Courtesy of KCI Therapeutic Services, San Antonio, TX.)"
+    }
+  ]
+}
